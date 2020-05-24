@@ -1,0 +1,18 @@
+h1 {
+    color: red;
+    font-size: 14px;
+}
+h1,h2{
+    color: seagreen;
+}
+#tecnicas{
+    color:blue;
+}
+hr{
+    color: crimson;
+    background-color: crimson;
+    height: 10px;
+}
+ul ul {
+    list-style-type:circle
+}
